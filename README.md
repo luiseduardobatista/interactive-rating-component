@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/luiseduardobatista/interactive-rating-component)
-- Live Site URL: [(https://interactivecle.netlify.app/)](https://interactivecle.netlify.app/)
+- Live Site URL: [Interactive rating component](https://interactivecle.netlify.app/)
 
 ## My process
 
