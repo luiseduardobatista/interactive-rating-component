@@ -57,4 +57,4 @@ Users should be able to:
 ## Author
 
 - Youtube - [Luís Eduardo Batista](https://www.youtube.com/channel/UCW3TUPrn5Q1NFJVUM6tAYOQ/videos)
-- GitHub - [@yourusername](https://github.com/luiseduardobatista)
+- GitHub - [Luís Eduardo Batista](https://github.com/luiseduardobatista)
