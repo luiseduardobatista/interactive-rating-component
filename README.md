@@ -28,13 +28,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Main Screen](images\Screenshots\mainCard.png)
-![Second Screen](images\Screenshots\tyCard.png)
+![Main Screen](images/Screenshots/mainCard.png)
+![Second Screen](images/Screenshots/tyCard.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub]https://github.com/luiseduardobatista/interactive-rating-component
+- Live Site URL: [(https://interactivecle.netlify.app/)](https://interactivecle.netlify.app/)
 
 ## My process
 
